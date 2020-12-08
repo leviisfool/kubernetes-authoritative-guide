@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.levi</groupId>
-    <artifactId>Kubernetes权威指南第4版</artifactId>
+    <artifactId>kubernetes-authoritative-guide</artifactId>
     <version>1.0-SNAPSHOT</version>
 
 
